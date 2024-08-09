@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sri-ram-swaminathan)
 
-<table>
-<tr>
-<td>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1_k3pisu9wNBXRzpUEi24pk800Y7edQun" width="300"/>
 
 👋🏽 Well Hello There
 
@@ -17,7 +15,7 @@ Currently, I am:
 
 I played football semi-professionally until 2021 and enjoy being in nature, especially in the company of elephants 🐘
 
-Here is a list of all the projects I have worked on : 
+Here is a list of all the projects I have worked on: 
 
 - Data Collection / Data Cleaning 🧹
   - NA 
@@ -33,14 +31,6 @@ Here is a list of all the projects I have worked on :
 - Miscellaneous 🎡
   - [Pokemon Card Generator](https://github.com/sri-ram-swaminathan/CS50P-Final-Project)
   - [18.06 : Linear Algebra](https://drive.google.com/drive/folders/19bQ04vYDnS0toQTzao1992GsyCrOI_dg?usp=sharing)
-</td>
-<td>
-
-<img src="https://drive.google.com/uc?export=view&id=1_k3pisu9wNBXRzpUEi24pk800Y7edQun"  width="500"/>
-
-</td>
-</tr>
-</table>
 
 Contact 
 

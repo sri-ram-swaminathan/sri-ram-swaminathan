@@ -39,3 +39,4 @@ Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hisriram/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sri-ram-swaminathan)
 [![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://docs.google.com/document/d/1uVEKQkBt5hlOOZHhndw84KKXXm9KrzgH_wAgnsovfQY/copy)
+[![Bookshelf](https://img.shields.io/badge/Bookshelf-147B31?style=for-the-badge&logo=BookStack&logoColor=white)](https://app.thestorygraph.com/profile/sriramreads)

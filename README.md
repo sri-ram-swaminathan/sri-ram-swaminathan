@@ -1,12 +1,10 @@
-![](https://komarev.com/ghpvc/?username=sri-ram-swaminathan)
-
 <img align="right" src="https://drive.google.com/uc?export=view&id=1_k3pisu9wNBXRzpUEi24pk800Y7edQun" width="300"/>
 
 👋🏽 Well Hello There
 
 My name is Sriram. I recently graduated with a Bachelor's in Physics and Mathematics. I want to pursue a Master's in Data Science. I am passionate about using my technical skills to make a positive impact using data.
 
-I consider myself to be a detective 🕵🏽‍♂️, using Statistical Analysis powered by Computer Programming to draw Inferences from the messy world of Data!
+I consider myself to be a detective 🕵🏽‍♂️, using Statistical Analysis powered by Computer Programming to draw inferences from the messy world of Data!
 
 Currently, I am:
 - Dusting off my to-be-read pile
@@ -24,10 +22,12 @@ Here is a list of all the projects I have worked on:
 - Machine Learning 🤖
   - [ISL Python](https://github.com/sri-ram-swaminathan/ISL-Python)
   - [Spaceship Titanic and Decision Trees](https://github.com/sri-ram-swaminathan/Spaceship-Titanic-and-Decision-Trees)
-- Football ⚽
-  - [NeverLosen](https://medium.com/@sriramthinksaboutthings/neverlosen-857fcb9761f4)
+- Full Stack Data Science ⭐
+  - 🏗️
 - Artificial Intelligence 🧠
   - 🏗️
+- Football ⚽
+  - [NeverLosen](https://medium.com/@sriramthinksaboutthings/neverlosen-857fcb9761f4)
 - Miscellaneous 🎡
   - [Pokemon Card Generator](https://github.com/sri-ram-swaminathan/CS50P-Final-Project)
   - [18.06 : Linear Algebra](https://drive.google.com/drive/folders/19bQ04vYDnS0toQTzao1992GsyCrOI_dg?usp=sharing)
